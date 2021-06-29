@@ -3,6 +3,9 @@
 Check out my new repository, 
 [Unsplash Statistic](https://github.com/afgprogrammer/chrome-unsplash-statistic) is a chrome extension for photographers who wants to check their Unsplash account statistic on regular basis. 
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afgprogrammer&show_icons=true" alt="afgprogrammer" /></p> -->
+
+
 <!--
 **afgprogrammer/afgprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
