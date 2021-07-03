@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Check out my new repository, 
-[Unsplash Statistic](https://github.com/afgprogrammer/chrome-unsplash-statistic) is a chrome extension for photographers who wants to check their Unsplash account statistic on regular basis. 
+Check out my new nuxt module, 
+[nuxt-fullpage](https://github.com/openafg/nuxt-fullpage) it's a module for creating fullscreen page scroll fast and simple. 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afgprogrammer&show_icons=true" alt="afgprogrammer" /></p> -->
 
