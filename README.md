@@ -3,8 +3,7 @@
 Check out my new nuxt module, 
 [nuxt-fullpage](https://github.com/openafg/nuxt-fullpage) is a module for creating fullscreen page scroll fast and simple. 
 
-Donating BTC: bc1q78w459lj8egrre3qguyh5hfz8cdp2tzwvgmsqe
-
+Donating ETH: 0x7B187C50aC8765cCB640Ae90A1f0E6cEA31A82fD
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afgprogrammer&show_icons=true" alt="afgprogrammer" /></p> -->
 
 
