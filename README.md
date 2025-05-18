@@ -22,14 +22,6 @@ I design **production-ready Flutter UI Kits** that help developers launch beauti
 * Light & Dark Mode Support  
 
 ---
-
-## 📬 How to Contact Me
-
-If you have questions, collaboration ideas, or just want to connect—feel free to reach out!
-
-### 📧 Email
-**rto1680@gmail.com**
-
 ### 📸 Instagram  
 Follow me on Instagram for daily Flutter tips, UI inspiration, and updates:  
 [@theflutterlover](https://instagram.com/theflutterlover)
