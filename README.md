@@ -20,14 +20,6 @@ I design **production-ready Flutter UI Kits** that help developers launch beauti
 * Clean, well-documented Dart code  
 * Easy to use  
 * Light & Dark Mode Support  
-
----
-### 📸 Instagram  
-Follow me on Instagram for daily Flutter tips, UI inspiration, and updates:  
-[@theflutterlover](https://instagram.com/theflutterlover)
-
----
-
 <!-- If my work saves you time, you can buy me a coffee in ETH: 0x7B187C50aC8765cCB640Ae90A1f0E6cEA31A82fD -->
 
 <!-- Optional GitHub stats -->
