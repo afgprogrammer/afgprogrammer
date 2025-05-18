@@ -8,6 +8,7 @@ I design **production-ready Flutter UI Kits** that help developers launch beauti
 
 | UI Kit | What it’s for | Live Demo |
 |-------|---------------|-----------|
+| **Homy** | Home service & booking worker  | [View demo](https://afgprogrammer.com/) |
 | **Fry** | Beauty appointment & tele-health bookings | [View demo](https://afgprogrammer.com/flutter/fry-ui-kit) |
 | **Koor** | Real-estate & rental listings | [View demo](https://afgprogrammer.com/flutter/koor-ui-kit) |
 | **Foody** | Food-delivery & restaurant ordering | [View demo](https://afgprogrammer.com/flutter/foody-ui-kit) |
