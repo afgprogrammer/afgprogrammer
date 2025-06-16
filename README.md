@@ -8,12 +8,12 @@ I design **production-ready Flutter UI Kits** that help developers launch beauti
 
 | UI Kit | What it’s for | Live Demo |
 |-------|---------------|-----------|
-| **Furnix** | Furniture Store  | [View demo](https://afgprogrammer.com/flutter/furnix-ui-kit) |
-| **Homy** | Home service & booking worker  | [View demo](https://afgprogrammer.com/) |
-| **Fry** | Beauty appointment & tele-health bookings | [View demo](https://afgprogrammer.com/flutter/fry-ui-kit) |
-| **Koor** | Real-estate & rental listings | [View demo](https://afgprogrammer.com/flutter/koor-ui-kit) |
-| **Foody** | Food-delivery & restaurant ordering | [View demo](https://afgprogrammer.com/flutter/foody-ui-kit) |
-| **Docy** | Doctor appointment & tele-health bookings | [View demo](https://afgprogrammer.com/flutter/docy-ui-kit) |
+| **Furnix** | Furniture Store  | [View demo](https://afgprogrammer.com/ui-kits/flutter-furniture-store-application-ui-kit) |
+| **Homy** | Home service & booking worker  | [View demo](https://afgprogrammer.com/ui-kits/flutter-homy-home-service-booking-application-ui-kit) |
+| **Fry** | Beauty appointment & tele-health bookings | [View demo](https://afgprogrammer.com/ui-kits/flutter-beauty-appointment-application-ui-kit) |
+| **Koor** | Real-estate & rental listings | [View demo](https://afgprogrammer.com/ui-kits/flutter-real-estate-application-ui-kit) |
+| **Foody** | Food-delivery & restaurant ordering | [View demo](https://afgprogrammer.com/ui-kits/flutter-online-food-delivery-application-ui-kit) |
+| **Docy** | Doctor appointment & tele-health bookings | [View demo](https://afgprogrammer.com/ui-kits/flutter-online-doctor-appointment-booking-application-ui-kit) |
 
 **Why devs like them**
 
